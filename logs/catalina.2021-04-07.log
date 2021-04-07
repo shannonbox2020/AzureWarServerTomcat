@@ -1,0 +1,41 @@
+07-Apr-2021 14:55:47.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.5
+07-Apr-2021 14:55:47.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2021 08:19:50 UTC
+07-Apr-2021 14:55:47.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.5.0
+07-Apr-2021 14:55:47.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Apr-2021 14:55:47.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Apr-2021 14:55:47.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Apr-2021 14:55:47.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_281\jre
+07-Apr-2021 14:55:47.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_281-b09
+07-Apr-2021 14:55:47.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Apr-2021 14:55:47.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64
+07-Apr-2021 14:55:47.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64
+07-Apr-2021 14:55:47.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\conf\logging.properties
+07-Apr-2021 14:55:47.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Apr-2021 14:55:47.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Apr-2021 14:55:47.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Apr-2021 14:55:47.252 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Apr-2021 14:55:47.253 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64
+07-Apr-2021 14:55:47.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64
+07-Apr-2021 14:55:47.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\temp
+07-Apr-2021 14:55:47.285 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+07-Apr-2021 14:55:47.286 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-Apr-2021 14:55:47.298 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+07-Apr-2021 14:55:48.157 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Apr-2021 14:55:48.213 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1456] milliseconds
+07-Apr-2021 14:55:48.296 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Apr-2021 14:55:48.300 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.5]
+07-Apr-2021 14:55:48.365 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\webapp.war]
+07-Apr-2021 14:55:51.184 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [2,133] milliseconds.
+07-Apr-2021 14:55:51.235 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\webapp.war] has finished in [2,870] ms
+07-Apr-2021 14:55:51.237 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\docs]
+07-Apr-2021 14:55:51.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\docs] has finished in [73] ms
+07-Apr-2021 14:55:51.312 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\examples]
+07-Apr-2021 14:55:54.520 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\examples] has finished in [3,209] ms
+07-Apr-2021 14:55:54.528 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\host-manager]
+07-Apr-2021 14:55:54.643 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\host-manager] has finished in [115] ms
+07-Apr-2021 14:55:54.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\manager]
+07-Apr-2021 14:55:54.774 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\manager] has finished in [123] ms
+07-Apr-2021 14:55:54.790 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\ROOT]
+07-Apr-2021 14:55:54.860 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Shann\Desktop\AzureBasics\apache-tomcat-10.0.5-windows-x64\webapps\ROOT] has finished in [70] ms
+07-Apr-2021 14:55:54.869 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Apr-2021 14:55:54.904 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6688] milliseconds
